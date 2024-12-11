@@ -1,2 +1,2 @@
 # app-dev
-My first repository
+parang ganto lng su bobo
